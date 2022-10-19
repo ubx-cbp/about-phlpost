@@ -4,14 +4,14 @@ title: PHLPOST APP FAQ
 nav_order: 1
 ---
 
-# PHLPOST APP FAQ
+# ABOUT PHLPOST APP
 
-## ABOUT PHLPOST APP
-
-### What is PHLPOST App?
+## What is PHLPOST App?
 The PHLPOST App is  a virtual wallet that allows you to track your parcels, pay bills, send money, and more using your smartphone or tablet – anytime, anywhere!
 
-### What can I do with PHLPOST App?
+<br/>
+
+## What can I do with PHLPOST App?
 We are continuously developing new product features for you but as of the current version you can do the following:
 
 - View and top-up your wallet balance
@@ -22,10 +22,16 @@ We are continuously developing new product features for you but as of the curren
 
 Local transfers to other banks are limited to PhP only.
 
-### Is PHLPOST App available 24/7?
+<br/>
+
+## Is PHLPOST App available 24/7?
 Yes, you may access the PHLPOST app 24/7
 
-### Who can sign up for the PHLPOST App?
+<br/>
+
+## Who can sign up for the PHLPOST App?
 Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
 
-## REGISTRATION
+<br/>
+
+# REGISTRATION
