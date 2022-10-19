@@ -1,55 +1,31 @@
 ---
 layout: default
-title: What is All This? (FAQs)
+title: PHLPOST APP FAQ
 nav_order: 1
 ---
 
-# What is All This? (FAQs)
+# PHLPOST APP FAQ
 
-## What is Jekyll, Read The Docs, GitHub Pages or why do I need to know any of this?
+## ABOUT PHLPOST APP
 
-Well, you don't! For a quick walkthrough to get your docs up an running with
-this theme see the [Quick Start Guide](quickstart.html).
+### What is PHLPOST App?
+The PHLPOST App is  a virtual wallet that allows you to track your parcels, pay bills, send money, and more using your smartphone or tablet – anytime, anywhere!
 
-If you are interested to know more about all this continue reading :)
+### What can I do with PHLPOST App?
+We are continuously developing new product features for you but as of the current version you can do the following:
 
-- [Jekyll](https://jekyllrb.com/) is a static site generator, you give it some
-markdown files, select a theme, and it builds a static website.
+- View and top-up your wallet balance
+- Track and trace your parcels from anywhere in the world
+- Transfer funds to all major local banks
+- Send money to another PHLPOST account 
+- Pay bills (for electric, water, phone, credit card, etc.)
 
-But you still need to find a way to host it, and that's where GitHub Pages
-enters the game.
+Local transfers to other banks are limited to PhP only.
 
-- [GitHub Pages](https://pages.github.com) is a service from
-[GitHub](https://github.com) that allows you to easily build and host a website
-from a GitHub repository.
+### Is PHLPOST App available 24/7?
+Yes, you may access the PHLPOST app 24/7
 
-There are a couple of different ways to configure GitHub pages, the easiest
-would be to create a `docs` folder, add some markdown files, and with a couple
-of clicks
-[configure GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-to automatically build and publish a website for your project!
+### Who can sign up for the PHLPOST App?
+Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
 
-GitHub Pages uses Jekyll underneath, so a GitHub Pages theme is a Jekyll theme.
-
-- [Read The Docs](https://readthedocs.org/) is service offering free hosting
-for project documentation. It's very flexible, but the easiest way to use
-it is with [Sphinx](https://www.sphinx-doc.org/). Similarly to Jekyll, Sphinx
-is also a static site generator, but focused on project documentation, and Read
-The Docs provides a really nice theme for it.
-
-I love the
-[Read The Docs theme for Sphinx](https://sphinx-rtd-theme.readthedocs.io), but
-you still have to set up a Sphinx project, a Read The Docs account, and
-configure the integration to automatically publish your documentation from
-your GitHub repository.
-
-### So...?
-
-For a project that is already in GitHub nothing beats the simplicity of GitHub
-Pages, and so this theme is a port of Read The Docs Sphinx theme to Jekyll, so
-that it can be easily used with GitHub Pages.
-
-## Other FAQs
-
-We don't have Frequently Asked Questions yet, if you have any please
-[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new).
+## REGISTRATION
