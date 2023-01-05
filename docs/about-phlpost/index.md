@@ -27,7 +27,8 @@ nav_order: 1
     }
 
     table#details {
-      margin: 10px;
+      margin: 10 10 10 20;
+      height: 150px;
     }
 
     table#details td {
@@ -41,15 +42,17 @@ nav_order: 1
     }
 
     table tr td#text-details {
-      border-left: 0.5px solid gray; border-top: 0.5px solid gray;
-      vertical-align: middle !important;
+      border-left: 0.5px solid gray !important; 
+      border-top: 0.5px solid gray !important;
+      vertical-align: top !important;
     }
 
     table tr td#icon-image {
-      vertical-align: middle;
-      padding: 0 10 0 10;
+      vertical-align: middle !important;
+      padding: 0 10 0 10 !important;
       width:15%; 
-      border-right: 0.5px solid gray; border-top: 0.5px solid gray;
+      border-right: 0.5px solid gray !important; 
+      border-top: 0.5px solid gray !important;
     }
 </style>
 
