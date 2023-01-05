@@ -42,6 +42,7 @@ nav_order: 1
 
     table tr td#text-details {
       border-left: 0.5px solid gray; border-top: 0.5px solid gray;
+      vertical-align: middle !important;
     }
 
     table tr td#icon-image {
@@ -60,7 +61,7 @@ nav_order: 1
           <td><b>Address</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280; vertical-align: middle !important;">
+          <td style="color:#2B2D3280;">
             Magallanes Drive, Liwasang Bonifacio Brgy. 659-A, Ermita 1000 Manila
           </td>
         </tr>
