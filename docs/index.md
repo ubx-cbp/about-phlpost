@@ -14,10 +14,10 @@ nav_exclude: true
         -moz-box-shadow: 0px 1px 1px black;
         -webkit-box-shadow: 0px 1px 1px black;
     }
-    table#hotline td {
-        border-top: none !important;
+    table#details td {
+        border: none !important;
     }
-    table#hotline tr {
+    table#details tr {
         box-shadow: 0px 0px 0px black !important;
         -moz-box-shadow: 0px 0px 0px black !important;
         -webkit-box-shadow: 0px 0px 0px black !important;
@@ -27,7 +27,7 @@ nav_exclude: true
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>Address</b></td>
         </tr>
@@ -44,12 +44,12 @@ nav_exclude: true
   </tr>
 </table>
 
-</br>
+<br/>
 
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>Hotline</b></td>
         </tr>
@@ -64,12 +64,12 @@ nav_exclude: true
   </tr>
 </table>
 
-</br>
+<br/>
 
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>Email</b></td>
         </tr>
@@ -84,12 +84,12 @@ nav_exclude: true
   </tr>
 </table>
 
-</br>
+<br/>
 
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>Website</b></td>
         </tr>
@@ -104,12 +104,12 @@ nav_exclude: true
   </tr>
 </table>
 
-</br>
+<br/>
 
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>FB Messenger</b></td>
         </tr>
@@ -124,12 +124,12 @@ nav_exclude: true
   </tr>
 </table>
 
-</br>
+<br/>
 
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="hotline">
+      <table id="details">
         <tr>
           <td><b>Twitter</b></td>
         </tr>
