@@ -10,15 +10,15 @@ nav_order: 4
     }
 </style>
 
-## **About PHLPost App**
+# **About PHLPost App**
 <br/>
 
-### **What is PHLPOST App?**
+## **What is PHLPOST App?**
 The PHLPOST App is  a virtual wallet that allows you to track your parcels, pay bills, send money, and more using your smartphone or tablet – anytime, anywhere!
 
 <br/>
 
-### **What can I do with PHLPOST App?**
+## **What can I do with PHLPOST App?**
 We are continuously developing new product features for you but as of the current version you can do the following:
 
 - View and top-up your wallet balance
@@ -31,23 +31,23 @@ Local transfers to other banks are limited to PhP only.
 
 <br/>
 
-### **Is PHLPOST App available 24/7?**
+## **Is PHLPOST App available 24/7?**
 Yes, you may access the PHLPOST app 24/7
 
 <br/>
 
-### **Who can sign up for the PHLPOST App?**
+## **Who can sign up for the PHLPOST App?**
 Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
 
 <br/>
 
-## **Registration**
+# **Registration**
 <br/>
 
-### **How do I sign up to the PHLPOST App?**
+## **How do I sign up to the PHLPOST App?**
 Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
 
-#### **Register via the PHLPOST App**
+### **Register via the PHLPOST App**
 
 1. Go to the Playstore/App Store and search for the PHLPOST App.
 2. Download and install PHLPOST.
@@ -72,7 +72,7 @@ Any Philippine mobile number can register.  The PHLPOST App is free to use and o
 
 <br/>
 
-### **Benefits of Verification**
+## **Benefits of Verification**
 Upon completion of the verification/eKYC process, PHLPOST App user can now start to avail of the various services offered by the app:
 
 * Secure transfers nationwide to member banks of Instapay and PesoNet
@@ -81,7 +81,7 @@ Upon completion of the verification/eKYC process, PHLPOST App user can now start
 
 <br/>
 
-### **How do I get Fully Verified?**
+## **How do I get Fully Verified?**
 1. Press the Upgrade Now button.
 2. Prepare the Valid ID you want to scan.
 3. Press the Continue button.
@@ -103,32 +103,32 @@ Upon completion of the verification/eKYC process, PHLPOST App user can now start
 
 <br/>
 
-## **Track and Trace**
+# **Track and Trace**
 As a PHLPOST App User you can now Track and Trace your international and domestic mails, parcels, and e-packets thru the App.
 
 <br/>
 
-### **Track and Trace from the Login Screen**
+## **Track and Trace from the Login Screen**
 1. Press the Track and Trace button from the login screen.
 2. Enter a valid tracking number.
 3. Press the Track Now button.
 
 <br/>
 
-### **Track and Trace from the App Dashboard**
+## **Track and Trace from the App Dashboard**
 1. Press the Track and Trace button from the app drawer or bottom navigation menu.
 2. Enter a valid tracking number.
 3. Press the Track Now button.
 
 <br/>
 
-## **Fund Transfer**
+# **Fund Transfer**
 <br/>
 
-### **Who can I transfer funds to?**
+## **Who can I transfer funds to?**
 You may transfer funds to any major local banks. Transfers to other banks in the Philippines are currently limited to Peso transfers only. </br>
 
-#### **List of Partner Banks**
+### **List of Partner Banks**
 <ul style="list-style-type: none; margin-top:0px; margin-bottom: 0px; margin-left: -15px;">
 <li>Sun Savings Bank</li>
 <li>Sterling Bank of Asia</li>
@@ -179,7 +179,7 @@ You may transfer funds to any major local banks. Transfers to other banks in the
 
 <br/>
 
-#### **Is there a limit to the amount I can transfer?**
+## **Is there a limit to the amount I can transfer?**
 The default transfer limits are as follows:
 - Transfer to Another PHLPOST Account - Php 100,000
 - Transfer to Other Banks - Php 100,000
@@ -187,30 +187,32 @@ The default transfer limits are as follows:
 
 <br/>
 
-#### **Are fund transfers done real-time?**
-</br>
+## **Are fund transfers done real-time?**
+<br/>
 
-#### Send instantly using InstaPay
+### Send instantly using InstaPay
 - Send to other banks or e-wallets
 - No cut-off
 - PhP 50,000 transaction limit
 - PhP 10 fee
 
-#### Send large amount using PesoNet
+### Send large amount using PesoNet
 - Send to other banks or e-wallets
 - Transactions before 3:00 PM cut-off are credited on or before 11:00 PM the same banking day
 - Transactions after cut-off, weekends, or holidays, are credited on or before 11:00 PM on the next banking day
 
-</br>
-The beneficiary shall receive the amount in full and not be charged for any incoming transfer/remittance fees as per BSP Circular No. 980.
-
-</br>
-
-## **Bills Payment**
 <br/>
 
-### **What bills can I pay with the PHLPOST app?**
+The beneficiary shall receive the amount in full and not be charged for any incoming transfer/remittance fees as per BSP Circular No. 980.
+
+<br/>
+
+# **Bills Payment**
+<br/>
+
+## **What bills can I pay with the PHLPOST app?**
 Here are the Biller Categories you can pay through the PHLPOST App
+
 <ul style="margin-top:0px; margin-bottom: 0px; margin-left: -15px;">
 <li>Electric Utilities</li>
 <li>Cable/Internet</li>
@@ -224,35 +226,42 @@ Here are the Biller Categories you can pay through the PHLPOST App
 <li>Healthcare</li>
 <li>Schools</li>
 <li>Payment Solutions</li>
+</ul>
 
 <br/>
 
-### **Can I pay someone else’s bill?**
+## **Can I pay someone else’s bill?**
 Yes, you may pay yours or someone else’s bills regularly or just one time as needed. The account that will be used to pay though will be deducted from your wallet balance.
 
 <br/>
 
-### **When is my payment credited?**
+## **When is my payment credited?**
 Payments done through the PHLPOST App are credited to the biller real-time. However, the biller or merchant may take a few days to reflect the payments made to their systems.
 
 <br/>
 
-## **Security / Settings**
+# **Security / Settings**
 <br/>
 
-### **Who can I transfer funds to?**
-  "faqSecuritySettingsQuestion1": "How secure is the PHLPOST App?",
-  "faqSecuritySettingsAnswer1Body1": "The PHLPOST App has employed the following security features to ensure reliable and safe virtual wallet transactions.",
-  "faqSecuritySettingsAnswer1Body1Bullet4": "• The PHLPOST app automatically logs out the user for 3 minutes of inactivity.",
-  "faqSecuritySettingsAnswer1Body1Bullet5": "• OTP is required for all fund transfer and bills payment transactions.",
-  "faqSecuritySettingsAnswer1Body1Bullet6": "• We adhere to the latest standards for encryption.",
-  "faqSecuritySettingsQuestion2": "What should I do if I forget my password?",
-  "faqSecuritySettingsAnswer2Body1Step1": "1. Press the Login with Mobile Number button.",
-  "faqSecuritySettingsAnswer2Body1Step2": "2. Press the Forget Password? link text.",
-  "faqSecuritySettingsAnswer2Body1Step3": "3. Enter your Mobile Number.",
-  "faqSecuritySettingsAnswer2Body1Step4": "4. Enter your New Nominated Password.",
-  "faqSecuritySettingsAnswer2Body1Step5": "5. Confirm your New Nominated Password.",
-  "faqSecuritySettingsAnswer2Body1Step6": "6. Press the Reset Password button.",
-  "faqSecuritySettingsAnswer2Body1Step7": "7. Press the Okay button.",
-  "faqSecuritySettingsAnswer2Body1Step8": "8. Enter the 6-digit OTP sent to your mobile number.",
-  "faqSecuritySettingsAnswer2Body1Step9": "9. Press the Continue button",
+## **How secure is the PHLPOST App?**
+The PHLPOST App has employed the following security features to ensure reliable and safe virtual wallet transactions.
+
+<ul style="margin-top:0px; margin-bottom: 0px; margin-left: -15px;">
+<li>The PHLPOST app automatically logs out the user for 3 minutes of inactivity.</li>
+<li>OTP is required for all fund transfer and bills payment transactions.</li>
+<li>We adhere to the latest standards for encryption.</li>
+</ul>
+
+<br/>
+
+## **What should I do if I forget my password?**
+
+1. Press the Login with Mobile Number button.
+2. Press the Forget Password? link text.
+3. Enter your Mobile Number.
+4. Enter your New Nominated Password.
+5. Confirm your New Nominated Password.
+6. Press the Reset Password button.
+7. Press the Okay button.
+8. Enter the 6-digit OTP sent to your mobile number.
+9. Press the Continue button

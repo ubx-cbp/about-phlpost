@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
+title: PHLPOST CONTACT US
 nav_order: 1
 ---
 
@@ -27,7 +27,7 @@ nav_order: 1
 <table style="width:100%">
   <tr>
     <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="details">
+      <table id="details" style="margin: 10px">
         <tr>
           <td><b>Address</b></td>
         </tr>
@@ -38,7 +38,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray; margin: 10px; border-left 0px solid white; align: center">
         <picture><img alt="Address" align="center" src="../assets/img/pin-drop.png"></picture>
       </td>
   </tr>
