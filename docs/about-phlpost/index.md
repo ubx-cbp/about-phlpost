@@ -42,11 +42,12 @@ nav_order: 1
 
     table tr td#text-details {
       border-left: 0.5px solid gray; border-top: 0.5px solid gray;
+      vertical-align: middle !important;
     }
 
     table tr td#icon-image {
       vertical-align: middle;
-      margin-left: 5px;
+      padding: 0 10 0 10;
       width:20%; 
       border-right: 0.5px solid gray; border-top: 0.5px solid gray;
     }
