@@ -39,7 +39,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="Address" align="center" src="assets/img/pin-drop.png"></picture>
+        <picture><img alt="Address" align="center" src="../assets/img/pin-drop.png"></picture>
       </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="Hotline" align="center" src="assets/img/phone.png"></picture>
+        <picture><img alt="Hotline" align="center" src="../assets/img/phone.png"></picture>
       </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="Email" align="center" src="assets/img/mail.png"></picture>
+        <picture><img alt="Email" align="center" src="../assets/img/mail.png"></picture>
       </td>
   </tr>
 </table>
@@ -99,7 +99,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="Website" align="center" src="assets/img/web.png"></picture>
+        <picture><img alt="Website" align="center" src="../assets/img/web.png"></picture>
       </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="FB Messenger" align="center" src="assets/img/messenger.png"></picture>
+        <picture><img alt="FB Messenger" align="center" src="../assets/img/messenger.png"></picture>
       </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@ nav_order: 1
       </table>
     </td>
       <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
-        <picture><img alt="Twitter" align="center" src="assets/img/twitter.png"></picture>
+        <picture><img alt="Twitter" align="center" src="../assets/img/twitter.png"></picture>
       </td>
   </tr>
 </table>
