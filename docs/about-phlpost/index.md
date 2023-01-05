@@ -14,20 +14,37 @@ nav_order: 1
         -moz-box-shadow: 0px 1px 1px black;
         -webkit-box-shadow: 0px 1px 1px black;
     }
+
+    table#details {
+      margin: 10px;
+    }
+
     table#details td {
         border: none !important;
     }
+
     table#details tr {
         box-shadow: 0px 0px 0px black !important;
         -moz-box-shadow: 0px 0px 0px black !important;
         -webkit-box-shadow: 0px 0px 0px black !important;
     }
+
+    table tr td#text-details {
+      border-left: 0.5px solid gray; border-top: 0.5px solid gray;
+    }
+
+    table tr td#icon-image {
+      vertical-align: center;
+      margin-left: 5px;
+      width:20%; 
+      border-right: 0.5px solid gray; border-top: 0.5px solid gray;
+    }
 </style>
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
-      <table id="details" style="margin: 10px">
+    <td id="text-details">
+      <table id="details">
         <tr>
           <td><b>Address</b></td>
         </tr>
@@ -38,7 +55,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray; margin: 10px; border-left 0px solid white; align: center">
+      <td id="icon-image">
         <picture><img alt="Address" align="center" src="../assets/img/pin-drop.png"></picture>
       </td>
   </tr>
@@ -48,7 +65,7 @@ nav_order: 1
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
+    <td id="text-details">
       <table id="details">
         <tr>
           <td><b>Hotline</b></td>
@@ -58,7 +75,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td id="icon-image">
         <picture><img alt="Hotline" align="center" src="../assets/img/phone.png"></picture>
       </td>
   </tr>
@@ -68,7 +85,7 @@ nav_order: 1
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
+    <td id="text-details">
       <table id="details">
         <tr>
           <td><b>Email</b></td>
@@ -78,7 +95,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td id="icon-image">
         <picture><img alt="Email" align="center" src="../assets/img/mail.png"></picture>
       </td>
   </tr>
@@ -88,7 +105,7 @@ nav_order: 1
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
+    <td id="text-details">
       <table id="details">
         <tr>
           <td><b>Website</b></td>
@@ -98,7 +115,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td id="icon-image">
         <picture><img alt="Website" align="center" src="../assets/img/web.png"></picture>
       </td>
   </tr>
@@ -108,7 +125,7 @@ nav_order: 1
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
+    <td id="text-details">
       <table id="details">
         <tr>
           <td><b>FB Messenger</b></td>
@@ -118,7 +135,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td id="icon-image">
         <picture><img alt="FB Messenger" align="center" src="../assets/img/messenger.png"></picture>
       </td>
   </tr>
@@ -128,7 +145,7 @@ nav_order: 1
 
 <table style="width:100%">
   <tr>
-    <td style="border-left: 0.5px solid gray; border-top: 0.5px solid gray; width:80%">
+    <td id="text-details">
       <table id="details">
         <tr>
           <td><b>Twitter</b></td>
@@ -138,7 +155,7 @@ nav_order: 1
         </tr>
       </table>
     </td>
-      <td style="width:20%; border-right: 0.5px solid gray; border-top: 0.5px solid gray;">
+      <td id="icon-image">
         <picture><img alt="Twitter" align="center" src="../assets/img/twitter.png"></picture>
       </td>
   </tr>
