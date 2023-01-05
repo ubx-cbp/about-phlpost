@@ -28,7 +28,6 @@ nav_order: 1
 
     table#details {
       margin: 10 10 10 20;
-      height: 150px;
     }
 
     table#details td {
@@ -44,7 +43,7 @@ nav_order: 1
     table tr td#text-details {
       border-left: 0.5px solid gray !important; 
       border-top: 0.5px solid gray !important;
-      vertical-align: top !important;
+      vertical-align: middle !important;
     }
 
     table tr td#icon-image {
