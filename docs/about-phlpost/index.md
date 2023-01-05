@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Index
-nav_exclude: true
+title: Contact Us
+nav_order: 1
 ---
 
 <style>
