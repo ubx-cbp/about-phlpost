@@ -26,6 +26,10 @@ nav_order: 1
       border-collapse: collapse;
     }
 
+    td#table-title {
+      padding-bottom: 20px;
+    }
+
     table#details {
       margin: 10 10 10 20;
     }
@@ -44,6 +48,7 @@ nav_order: 1
       border-left: 0.5px solid gray !important; 
       border-top: 0.5px solid gray !important;
       vertical-align: middle !important;
+      padding: 15 20 15 15 !important;
     }
 
     table tr td#icon-image {
@@ -60,7 +65,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>Address</b></td>
+          <td id="table-title"><b>Address</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280;">
@@ -82,7 +87,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>Hotline</b></td>
+          <td id="table-title"><b>Hotline</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280">(02) - 8527 0111 / 8527 0107</td>
@@ -102,7 +107,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>Email</b></td>
+          <td id="table-title"><b>Email</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280">phlpostcares@phlpost.gov.ph</td>
@@ -122,7 +127,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>Website</b></td>
+          <td id="table-title"><b>Website</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280">www.phlpost.gov.ph</td>
@@ -142,7 +147,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>FB Messenger</b></td>
+          <td id="table-title"><b>FB Messenger</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280">m.me/PHLPost</td>
@@ -162,7 +167,7 @@ nav_order: 1
     <td id="text-details">
       <table id="details">
         <tr>
-          <td><b>Twitter</b></td>
+          <td id="table-title"><b>Twitter</b></td>
         </tr>
         <tr>
           <td style="color:#2B2D3280">@postofficeph</td>
