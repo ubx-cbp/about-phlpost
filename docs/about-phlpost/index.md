@@ -8,11 +8,22 @@ nav_order: 1
     body {
         background-color: #F4F6F9;
     }
+
+    table#main-table {
+      width: 100%;
+      height: 150px;
+    }
+    
     tr{
         background-color:white;
         box-shadow: 0px 1px 1px black;
         -moz-box-shadow: 0px 1px 1px black;
         -webkit-box-shadow: 0px 1px 1px black;
+    }
+
+    td, th {
+      border: 0px solid #e1e4e5 !important;
+      border-collapse: collapse;
     }
 
     table#details {
@@ -34,14 +45,14 @@ nav_order: 1
     }
 
     table tr td#icon-image {
-      vertical-align: center;
+      vertical-align: middle;
       margin-left: 5px;
       width:20%; 
       border-right: 0.5px solid gray; border-top: 0.5px solid gray;
     }
 </style>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
@@ -63,7 +74,7 @@ nav_order: 1
 
 <br/>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
@@ -83,7 +94,7 @@ nav_order: 1
 
 <br/>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
@@ -103,7 +114,7 @@ nav_order: 1
 
 <br/>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
@@ -123,7 +134,7 @@ nav_order: 1
 
 <br/>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
@@ -143,7 +154,7 @@ nav_order: 1
 
 <br/>
 
-<table style="width:100%">
+<table id="main-table">
   <tr>
     <td id="text-details">
       <table id="details">
