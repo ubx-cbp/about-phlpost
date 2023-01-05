@@ -48,7 +48,7 @@ nav_order: 1
       border-left: 0.5px solid gray !important; 
       border-top: 0.5px solid gray !important;
       vertical-align: middle !important;
-      padding: 15 20 15 15 !important;
+      padding: 15px;
     }
 
     table tr td#icon-image {

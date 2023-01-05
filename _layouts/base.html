@@ -66,7 +66,7 @@
               {{ content }}
             </div>
           </div>
-          {% include footer.html %}
+          <!-- {% include footer.html %} -->
         </div>
       </div>
 
@@ -83,9 +83,9 @@
   <script src="{{ 'assets/js/theme.js' | absolute_url }}" defer></script>
   <script type="text/javascript" defer>
     hljs.initHighlightingOnLoad();
-    window.addEventListener('load', function() {
-      SphinxRtdTheme.Navigation.enable({{ site.sticky_navigation | default: 'false' }});
-    });
+    // window.addEventListener('load', function() {
+    //   SphinxRtdTheme.Navigation.enable({{ site.sticky_navigation | default: 'false' }});
+    // });
   </script>
   <!-- Build Date: {{ site.time | date: "%Y-%m-%d %H:%M" }} -->
 </body>
