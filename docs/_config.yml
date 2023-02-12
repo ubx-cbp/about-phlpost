@@ -4,7 +4,7 @@ remote_theme: carlosperate/jekyll-theme-rtd
 repo_url: "https://github.com/pam-d/about-phlpost"
 edit_on_github: false
 github_docs_folder: true
-sticky_navigation: true
+sticky_navigation: false
 prev_next_buttons_location: None
 search_enabled: false
 hljs_style: github-gist
