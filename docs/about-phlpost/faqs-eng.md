@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST APP FAQ
+title: PHLPOST APP FAQ (English)
 nav_order: 4
 ---
 
