@@ -4,7 +4,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-repo_url: 'https://github.com/pam-d/about-phlpost'
+repo_url: 'https://github.com/ubx-cbp/about-phlpost'
 edit_on_github: false
 github_docs_folder: true
 sticky_navigation: false
